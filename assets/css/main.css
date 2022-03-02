@@ -3472,7 +3472,7 @@ button:disabled,
   -webkit-overflow-scrolling: touch;
   background: #3c6ea8;
   color: #ffffff;
-  height: 60%;
+  height: 100%;
   max-width: 60%;
   overflow-y: auto;
   padding: 3em 2em;
